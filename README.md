@@ -20,7 +20,8 @@ La composición cambia en tiempo real generando ilusiones visuales dinámicas.
 El proyecto explora principios del Op Art y del diseño generativo mediante sistemas computacionales reactivos.
 Aquí los referentes de color y referentes visuales:
 
-![COLOR](<img width="768" height="534" alt="ilusion-optica-768x534" src="https://github.com/user-attachments/assets/d9074da8-aea4-47d5-a6bd-a82d452a8e10" />)
+![COLOR]()
+
 https://es.pinterest.com/pin/800514902486425261/
 ![PROCESO DE COLOR](<img width="897" height="817" alt="proceso de color" src="https://github.com/user-attachments/assets/885e7bb4-b90c-4f5d-8c38-b8d6aba3f1d8" />)
 

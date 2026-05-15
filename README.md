@@ -20,10 +20,10 @@ La composición cambia en tiempo real generando ilusiones visuales dinámicas.
 El proyecto explora principios del Op Art y del diseño generativo mediante sistemas computacionales reactivos.
 Aquí los referentes de color y referentes visuales:
 
-![COLOR]()
-
+![COLOR](https://es.pinterest.com/pin/800514902486425261/)
 https://es.pinterest.com/pin/800514902486425261/
-![PROCESO DE COLOR](<img width="897" height="817" alt="proceso de color" src="https://github.com/user-attachments/assets/885e7bb4-b90c-4f5d-8c38-b8d6aba3f1d8" />)
+
+![PROCESO DE COLOR](https://ibb.co/Zzrc67SR))
 
 
 ![EFECTOS VISUALES1](<img width="280" height="180" alt="images" src="https://github.com/user-attachments/assets/b25d428b-c590-41e9-8ddc-265339e56e56" />)
